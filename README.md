@@ -1,6 +1,12 @@
 # multiomics
 Measuring all the things
 
+## What IS multiomics?
+
+- DNA-seq of an individual + RNA-seq
+- RNA-Seq + ATAC-seq on similar populations (not necessarily identical cells)
+- RNA-seq + imaging on similar populations
+- RNA-seq + imaging on the SAME cells (via infrared imaging)
 
 ## Potential to-do's:
 1) Ask DCP if their ingestion service can accommodate ingesting "planned" data: that is, an entry that consists of all metadata but lacking the actual data content, plus a date for when it will likely be available. That way, when everybody searches DCP for a particular data type, they see not just data that exists but also data that is coming in the future. This means a metadata field that contains either "Data exists" or "Estimated date data will exist". 
@@ -20,7 +26,6 @@ Ideally: Has both sequencing-based and imaging-based molecular measurements
 
 - Every of these grants have a DCP
 - Should be working at the "node level" to latch onto these existing initiatives to make sure all their data types are interoperable
-
 
 
 ## Metadata
