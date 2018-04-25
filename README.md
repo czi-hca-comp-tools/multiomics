@@ -14,6 +14,7 @@ Ideally: Has both sequencing-based and imaging-based molecular measurements
 - Brain Initiative is doing RNA-Seq + imaging + epigenomics on single cells from the brain region
 - ENCODE is doing hematopoiesis and liver
 - HCA also has its own
+- Also bulk samples to help do QC for your single cells
 
 ### Need interoperability
 
