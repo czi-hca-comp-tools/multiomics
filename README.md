@@ -41,3 +41,12 @@ How do we come up with the metadata we need?
 
 - Data registration - officially stating a mouse strain and timepoint to analyze
 - Hematopoiesis: Bulk RNA-seq and ATAC-seq on sorted subpopulations to create the principal components
+
+
+## Imaging specifics
+
+- Need a place to put the data
+- Need rich single cell data with morphology and transcriptomics from exactly the same cells
+  - Some kind of fluorescent labels on the cells
+  - Patch-Seq: Patch clamp the cell, get morphology, could measure electrical activity, then suck out the cytoplasmic material
+- Need a place where we can click and download everything
