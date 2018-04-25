@@ -27,3 +27,7 @@ Ideally: Has both sequencing-based and imaging-based molecular measurements
 How do we come up with the metadata we need?
 - Enforcing those standards
 - e.g. DCC for neurons have already figured out what they need, how do we use their expertise?
+
+## What has worked and what hasn't worked?
+
+- Data registration - officially stating a mouse strain and timepoint to analyze
