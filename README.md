@@ -31,3 +31,4 @@ How do we come up with the metadata we need?
 ## What has worked and what hasn't worked?
 
 - Data registration - officially stating a mouse strain and timepoint to analyze
+- Hematopoiesis: Bulk RNA-seq and ATAC-seq on sorted subpopulations to create the principal components
