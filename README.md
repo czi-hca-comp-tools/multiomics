@@ -4,7 +4,7 @@ Measuring all the things
 ## What *is* multiomics?
 
 - DNA-seq of an individual + RNA-seq
-- RNA-Seq + ATAC-seq on similar populations (not necessarily identical cells)
+- RNA-Seq + ATAC-seq on similar populations (not necessarily identical cells). Are there relationships between accessible chromatin and RNA that influences gene expression?
 - RNA-seq + imaging on similar populations
 - RNA-seq + imaging on the SAME cells (via infrared imaging)
 
