@@ -10,9 +10,10 @@ Measuring all the things
 
 ## Potential to-do's:
 1) Ask DCP if their ingestion service can accommodate ingesting "planned" data: that is, an entry that consists of all metadata but lacking the actual data content, plus a date for when it will likely be available. That way, when everybody searches DCP for a particular data type, they see not just data that exists but also data that is coming in the future. This means a metadata field that contains either "Data exists" or "Estimated date data will exist". 
-2) Establish a single point of data deposit. Each project that has its own place for data to exist (e.g. Brain Initiative) needs to contact HCA and decide how to interface with HCA's DCP so as to decide whether to duplicate the data or interface. 
-3) Maybe even before the DCP, need accessibility to the data to use it and analyze it using Jupyter notebooks
-4) Ask the HCA DCP to produce a best practices document for how they expect each project to interface with them. Should we submit our data to GEO, and DCP? And project websites? Just place it on our websites as a data dump? (no!)
+1) Establish a single point of data deposit. Each project that has its own place for data to exist (e.g. Brain Initiative) needs to contact HCA and decide how to interface with HCA's DCP so as to decide whether to duplicate the data or interface. 
+1) Maybe even before the DCP, need accessibility to the data to use it and analyze it using Jupyter notebooks
+1) Ask the HCA DCP to produce a best practices document for how they expect each project to interface with them. Should we submit our data to GEO, and DCP? And project websites? Just place it on our websites as a data dump? (no!)
+1) Working with technology developers (the other RFA) to get their hands on the data as early as possible, even raw images would be great.
 
 ## Benchmark datasets and interoperability
 
