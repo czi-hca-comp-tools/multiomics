@@ -14,6 +14,12 @@ Need a list of everything that already measures 2 or more things from the same(i
 
 - MERFISH
 - SeqFish
+- Patch-Seq
+
+TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
+----- | ----------- | ------- 
+[name](link to repo) | description of the project | Jeremy Freeman, PhD @ CZI Science
+[another project name](link to repo) | description of the project | Joe Hand and Danielle Robinson, PhD @ CS&S
 
 ## Potential to-do's:
 1) Ask DCP if their ingestion service can accommodate ingesting "planned" data: that is, an entry that consists of all metadata but lacking the actual data content, plus a date for when it will likely be available. That way, when everybody searches DCP for a particular data type, they see not just data that exists but also data that is coming in the future. This means a metadata field that contains either "Data exists" or "Estimated date data will exist". 
