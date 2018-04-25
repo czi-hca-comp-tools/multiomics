@@ -1,7 +1,7 @@
 # multiomics
 Measuring all the things
 
-## What IS multiomics?
+## What *is* multiomics?
 
 - DNA-seq of an individual + RNA-seq
 - RNA-Seq + ATAC-seq on similar populations (not necessarily identical cells)
