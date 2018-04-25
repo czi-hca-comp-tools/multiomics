@@ -1,2 +1,2 @@
 # multiomics
-Measuring the crap out of every cell
+Measuring all the things
