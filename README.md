@@ -13,3 +13,10 @@ Ideally: Has both sequencing-based and imaging-based molecular measurements
 
 - Every of these grants have a DCP
 - Should be working at the "node level" to latch onto these existing initiatives to make sure all their data types are interoperable
+
+
+## Metadata
+
+How do we come up with the metadata we need?
+- Enforcing those standards
+- e.g. DCC for neurons have already figured out what they need, how do we use their expertise?
