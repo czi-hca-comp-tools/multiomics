@@ -27,6 +27,9 @@ Ideally: Has both sequencing-based and imaging-based molecular measurements
 - Every of these grants have a DCP
 - Should be working at the "node level" to latch onto these existing initiatives to make sure all their data types are interoperable
 
+### Fiducial markers
+
+Ultimately, these different measurement modalities are in different manifolds and you need fiducial markers to align these datasets. We can start getting these fiducial markers through bulk data.
 
 ## Metadata
 
