@@ -24,6 +24,9 @@ Need a list of everything that already measures 2 or more things from the same(i
 1) Working with technology developers (the other RFA) to get their hands on the data as early as possible, even raw images would be great.
 1) Spatial transcriptomics for tissues OTHER than brain
 
+## Where to place data (for now)
+Based on discussion with the DCP team, non-scRNA data will be welcome in the DCP... but not right now, until things settle for their main data type. In the meantime, teams are welcome to place multiomic data wherever is convenient for them (for us, we will place at [Broad Bioimage Benchmark Collection](http://www.broadinstitute.org/bbbc/) and then place a description and link to that data at [Easy-Data](https://github.com/czi-hca-comp-tools/easy-data). 
+
 ## Benchmark datasets and interoperability
 
 Ideally: Has both sequencing-based and imaging-based molecular measurements
