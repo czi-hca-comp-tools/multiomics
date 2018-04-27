@@ -13,6 +13,8 @@ To give a sense for the breadth of the possibilities of what "multimeasurement" 
 1. Given our single-cell RNA knowledge, how can we design the most effective probes to be used in FISH?
 1. Many labs can observe one aspect of a cell (e.g. methylation) or another aspect (e.g. ATACseq), but are not equipped to observe both for the same cell.  It is difficult to understand the relationship between these two phenomena since we can never see the results of both on the same cell specimen.  How can we combine our prior knowledge of biology together with modern mathematical methods to overcome this challenge and build a coherent wholistic model of the cell?
 
+It may turn out that some of these problems are so different from each other that there is nothing we can learn by trying to think about them in the same framework.  However, here we hope to begin to untangle what situations have with overlapping challenges that can be attacked using common methods.
+
 ## Our goal
 
 The goal of this repo is to collect a list of interesting multireckoning situations, datasets, and algorithms.  Our hope is that by centralizing ideas across the broad compass of multireckoning we can start to understand what we can learn from each other.  
